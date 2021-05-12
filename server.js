@@ -5,7 +5,7 @@ const app = express()
 
 app.use(cors());
 app.use(express.json());
-app.listen(3000);
+app.listen(process.env.PORT);
 app.use("/uploads", express.static('uploads'))
 
 app.get("/muricir", (req, res)=>{
