@@ -10,7 +10,7 @@ app.use("/uploads", express.static('uploads'))
 
 app.get("/muricir", (req, res)=>{
     return res.send(
-        [
+       [
             {
                 "acertividade":"98%",
                 "nome":"Muricir",
