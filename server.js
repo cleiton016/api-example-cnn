@@ -24,6 +24,97 @@ app.get("/muricir", (req, res)=>{
                 "nome_cientifico": "Umbu  ....",
                 "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
                 "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
+            },
+            {
+                "acertividade":"80%",
+                "nome":"Umbu",
+                "nome_cientifico": "Umbu  ....",
+                "descricao":"Nativo do semiárido brasileiro, o umbu (Spondias tuberosa Arruda) é classificado como uma boa alternativa de produção para incrementar a renda do produtor. A fruta é muito consumida in natura, mas também pode ser usada para a fabricação de sucos, néctares, polpas, doces, geleias, compotas e sorvetes. A fruteira possui raízes que armazenam água, tornando sua irrigação menos rígida. Além disso, a espécie é pouco exigente em adubação.",
+                "imagens": ["https://api-example-cnn.herokuapp.com/uploads/umbu/umbu.jpg"]
             }
         ]
     )
